@@ -1,0 +1,46 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/discProject/disc-wrapped-pic.png",
+      "title": "Discord Wrapped",
+      "description": "React, Tailwind, Plotly",
+      "url": "https://quartzic.github.io/discord-wrapped/",
+      "source": "https://github.com/quartzic/discord-wrapped"
+    },
+    {
+      "cover": "/portfolio/countryFlashcards/flashcards-pic.png",
+      "title": "Country Flashcards",
+      "description": "React, Chakra, Flask",
+      "url": "https://country-flashcards.herokuapp.com/",
+      "source": "https://github.com/Viveks295/country-flashcards"
+    },
+    {
+      "cover": "/portfolio/carPriceFinder/car-pic.png",
+      "title": "Car Price Finder",
+      "description": "Python, Numpy, Jupyter",
+      "url": "https://github.com/Viveks295/car-price-finder",
+      "source": "https://github.com/Viveks295/car-price-finder"
+    },
+    {
+      "cover": "/portfolio/lireddit/lireddit-pic.png",
+      "title": "Reddit Clone",
+      "description": "TypeScript, PostgreSQL, GraphQL",
+      "url": "https://github.com/Viveks295/lireddit",
+      "source": "https://github.com/Viveks295/lireddit"
+    },
+    {
+      "cover": "/portfolio/hangman/hangman-pic.png",
+      "title": "Hangman",
+      "description": "Java, Swing GUI",
+      "url": "https://github.com/Viveks295/Hangman",
+      "source": "https://github.com/Viveks295/Hangman"
+    },
+    {
+      "cover": "/portfolio/thisWebsite/portfolio-pic.png",
+      "title": "This Website",
+      "description": "React, SCSS, Animate.css",
+      "url": "https://viveks295.github.io/portfolio/",
+      "source": "https://github.com/Viveks295/portfolio"
+    }
+  ]
+}
