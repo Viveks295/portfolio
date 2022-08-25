@@ -36,7 +36,7 @@ const About = () => {
           </p>
           <p>
             I am experienced with working in Python, Java, and JavaScript. I
-            have developed full-stack wep applications using technologies such
+            have developed full-stack web applications using technologies such
             as React, PostgreSQL, GraphQL, Flask, Node.js, and Spring Boot. I
             also enjoy learning about AI and machine learning. You can find some
             of my projects <a href="/portfolio">here</a>.
