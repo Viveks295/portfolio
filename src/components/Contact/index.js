@@ -42,7 +42,7 @@ const Contact = () => {
               idx={15}
             />
           </h1>
-          <p>Feel free to contact me about anything</p>
+          <p>Feel free to contact me with any questions you have</p>
           <div className="contact-form">
             <form ref={refForm} onSubmit={sendEmail}>
               <ul>

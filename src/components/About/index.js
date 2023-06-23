@@ -26,20 +26,21 @@ const About = () => {
             />
           </h1>
           <p>
-            Hi! My name is Vivek Saravanan. I am currently a freshman studying
+            Hi! My name is Vivek Saravanan. I am currently a sophomore studying
             computer science and mathematics at UW-Madison.
           </p>
           <p>
             I am naturally curious and I love to find creative solutions to
-            complex problems. In my free time I like to solve algorithmic
-            problems and play chess.
+            complex problems as well as learn new ideas. In my free time I like
+            to solve algorithmic problems and play chess.
           </p>
           <p>
-            I am experienced with working in Python, Java, and JavaScript. I
-            have developed full-stack web applications using technologies such
-            as React, PostgreSQL, GraphQL, Flask, Node.js, and Spring Boot. I
-            also enjoy learning about AI and machine learning. You can find some
-            of my projects <a href="/portfolio">here</a>.
+            The languages I am most comfortable with are Python, Java, and
+            JavaScript. I have developed full-stack web applications using
+            technologies such as React, Docker, PostgreSQL, GraphQL, Flask,
+            Node.js, and Spring Boot. I also enjoy learning about AI and machine
+            learning. You can find some of my projects{' '}
+            <a href="/portfolio">here</a>.
           </p>
         </div>
 
