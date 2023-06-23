@@ -8,11 +8,11 @@
       "source": "https://github.com/quartzic/discord-wrapped"
     },
     {
-      "cover": "/portfolio/countryFlashcards/flashcards-pic.png",
-      "title": "Country Flashcards",
-      "description": "React, Chakra, Flask",
-      "url": "https://country-flashcards.herokuapp.com/",
-      "source": "https://github.com/Viveks295/country-flashcards"
+      "cover": "/portfolio/studentClassMap/class-map.png",
+      "title": "Student Class Map",
+      "description": "Java, JUnit5",
+      "url": "https://github.com/Viveks295/student-class-map",
+      "source": "https://github.com/Viveks295/student-class-map"
     },
     {
       "cover": "/portfolio/carPriceFinder/car-pic.png",
@@ -27,6 +27,13 @@
       "description": "TypeScript, PostgreSQL, GraphQL",
       "url": "https://github.com/Viveks295/lireddit",
       "source": "https://github.com/Viveks295/lireddit"
+    },
+    {
+      "cover": "/portfolio/countryFlashcards/flashcards-pic.png",
+      "title": "Country Flashcards",
+      "description": "React, Chakra, Flask",
+      "url": "https://github.com/Viveks295/country-flashcards",
+      "source": "https://github.com/Viveks295/country-flashcards"
     },
     {
       "cover": "/portfolio/hangman/hangman-pic.png",

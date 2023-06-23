@@ -37,10 +37,11 @@ const About = () => {
           <p>
             The languages I am most comfortable with are Python, Java, and
             JavaScript. I have developed full-stack web applications using
-            technologies such as React, Docker, PostgreSQL, GraphQL, Flask,
-            Node.js, and Spring Boot. I also enjoy learning about AI and machine
-            learning. You can find some of my projects{' '}
-            <a href="/portfolio">here</a>.
+            technologies such as React, Docker, Flask, Node.js, and Spring Boot.
+            I am also a member of{' '}
+            <a href="https://wa.wisc.edu/">Wisconsin Autonomous</a>, a student
+            organization dedicated to the development of a self-driving car. You
+            can find some of my projects <a href="/portfolio">here</a>.
           </p>
         </div>
 

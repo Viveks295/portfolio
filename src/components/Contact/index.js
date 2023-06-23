@@ -85,7 +85,7 @@ const Contact = () => {
           <br />
           University of Wisconsin-Madison
           <br />
-          <span>viveksaravanan295@gmail.com</span>
+          <span>vsaravanan@wisc.edu</span>
         </div>
         <div className="map-wrap">
           <MapContainer
