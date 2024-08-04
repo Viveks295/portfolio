@@ -36,7 +36,7 @@ const Home = () => {
               idx={24}
             /> */}
           </h1>
-          <h2>computer science student at uw madison</h2>
+          <h2>computer science + math student at uw-madison</h2>
           <Link to="/contact" className="flat-button">
             contact me
           </Link>

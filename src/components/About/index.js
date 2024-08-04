@@ -26,21 +26,21 @@ const About = () => {
             />
           </h1>
           <p>
-            Hi! My name is Vivek Saravanan. I am currently a sophomore studying
-            computer science and mathematics at UW-Madison.
+            Hi! My name is Vivek Saravanan. I am a junior studying
+            computer science and mathematics at UW-Madison. I currently do AI 
+            research at my university, and have most recently worked as a
+            quantititative strategist at Goldman Sachs.
           </p>
           <p>
             I am naturally curious and I love to find creative solutions to
-            complex problems as well as learn new ideas. In my free time I like
-            to solve algorithmic problems and play chess.
+            complex problems as well as learn new concepts. I am also fascinated
+            by pure math, particularly analysis and algebra. 
+            In my free time I like to play tennis and chess.
           </p>
           <p>
-            The languages I am most comfortable with are Python, Java, and
-            JavaScript. I have developed full-stack web applications using
-            technologies such as React, Docker, Flask, Node.js, and Spring Boot.
-            I am also a member of{' '}
-            <a href="https://wa.wisc.edu/">Wisconsin Autonomous</a>, a student
-            organization dedicated to the development of a self-driving car. You
+            I am interested in roles in quantitative finance, machine learning, and 
+            software engineering. For any inquiries, please feel free to contact me 
+            at <a href="mailto:vsaravanan@wisc.edu">vsaravanan@wisc.edu</a>. You
             can find some of my projects <a href="/portfolio">here</a>.
           </p>
         </div>
